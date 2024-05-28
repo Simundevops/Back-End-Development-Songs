@@ -32,4 +32,4 @@ coverage==6.3.2
 httpie==3.2.1
 
 #db
-pymongo==3.5.1
+pymongo==3.6.3
